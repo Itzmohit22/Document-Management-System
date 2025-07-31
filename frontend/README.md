@@ -1,6 +1,6 @@
-# SecureDoc - Document Management System (Frontend)
+# SecureDoc - Document Management System 
 
-This is a Vite React (JavaScript) implementation of a document management system frontend. It features:
+This is a Vite React (JavaScript) implementation of a document management system . It features:
 
 - Login screen (admin/user demo accounts)
 - Dashboard with sidebar navigation
@@ -8,7 +8,7 @@ This is a Vite React (JavaScript) implementation of a document management system
 - Upload view
 - User management (admin only)
 - Settings/profile
-- Data persistence via localStorage (no backend)
+- Data persistence via localStorage ( backend)
 - Font Awesome icons via CDN
 
 ## Getting Started
