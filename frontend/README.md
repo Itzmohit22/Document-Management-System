@@ -32,5 +32,3 @@ This is a Vite React (JavaScript) implementation of a document management system
 - `src/views/` — Views for Documents, Upload, Users, Settings, Document Modal
 - `src/index.css` — Main CSS (normal CSS, not CSS-in-JS)
 
----
-This project is frontend-only. All data is stored in your browser's localStorage.
